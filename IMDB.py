@@ -1,4 +1,4 @@
-    __author__ = 'Daniel Murphy'
+__author__ = 'Daniel Murphy'
 
 import mechanize
 from bs4 import BeautifulSoup
